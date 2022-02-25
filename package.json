@@ -1,0 +1,23 @@
+{
+  "name": "firstapi",
+  "version": "1.0.0",
+  "description": "Primeiro projeto do Zero nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiconunes/estudos-nodejs-firstapi.git"
+  },
+  "keywords": [
+    "firstapi",
+    "nodejs"
+  ],
+  "author": "Chico Nunes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chiconunes/estudos-nodejs-firstapi/issues"
+  },
+  "homepage": "https://github.com/chiconunes/estudos-nodejs-firstapi#readme"
+}
